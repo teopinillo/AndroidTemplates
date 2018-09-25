@@ -1,0 +1,5 @@
+<provider
+            android:name=".data.MyProvider"
+            android:authorities="com.example.android.pets"
+            android:exported="false" />
+            
